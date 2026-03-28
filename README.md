@@ -38,5 +38,5 @@ I bridge the gap between **Industrial Safety & Security** and **Cutting-Edge AI*
 
 ---
 
-- 📫 **Connect with me:** [Your LinkedIn Link]
+- 📫 **Connect with me:** sanjaykumar2008@gmail.com
 - ⚡ **Vision:** Creating a safer world through intelligent, autonomous software.
